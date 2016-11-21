@@ -1,2 +1,2 @@
-# one-happy-thing
+# One Happy Thing
 A website for happy things.
