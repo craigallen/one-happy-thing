@@ -2,7 +2,9 @@
 
 An inspirational quote generator using HTML, CSS, & JavaScript.
 
-Originally built using the tutorial here (How to build a random quote generator with JavaScript and HTML, for absolute beginners):
+Originally built using the tutorial here:
+
+##How to build a random quote generator with JavaScript and HTML, for absolute beginners
 
 https://medium.freecodecamp.com/creating-a-bare-bones-quote-generator-with-javascript-and-html-for-absolute-beginners-5264e1725f08?gi=c6279ea147eb#.wddke6bf9
 
